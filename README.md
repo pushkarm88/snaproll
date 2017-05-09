@@ -3,7 +3,7 @@ A software to roll the photos in a format to fit on laptop/TV screens. Whenever 
 
 Limitation on this version 1.0:
 Currently, this software is applicable to JPG/JPEG formats and works on the images/photos taken from any mobile/camera means if you rotate the image deliberately on the computer then it won’t work.
-If the photo is clicked from any device and it appears skewed then this software will rolls them appropriately.
+If the photo is clicked from any device and it appears skewed then this software will roll them appropriately.
 
 The second version will be launched later and work on different formats to overcome the limitations of current version.
 
